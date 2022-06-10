@@ -15,7 +15,7 @@
    * HTML/CSS
 
 ## Education 
-   University: POLESSKY STATE UNIVERSITY
+   University: POLESSKY STATE UNIVERSITY (Engineering Faculty)
 
 ## Language
    English - A2
