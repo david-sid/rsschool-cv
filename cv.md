@@ -16,3 +16,6 @@
 
 ## Education 
    University: POLESSKY STATE UNIVERSITY (Engineering Faculty)
+
+## Language
+   English - A2
