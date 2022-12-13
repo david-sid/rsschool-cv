@@ -13,3 +13,6 @@
    * JS
    * Git/GitHub
    * HTML/CSS
+
+## Education 
+   University: POLESSKY STATE UNIVERSITY (Engineering Faculty)
